@@ -13,7 +13,8 @@ public class Hooks {
 		
 		StepDefination m =new StepDefination();
 		
-		StepDefination mnopq =new StepDefination();
+		StepDefination mn =new StepDefination();
+		StepDefination op =new StepDefination();
 		
 		if(StepDefination.place_id==null)
 		{
