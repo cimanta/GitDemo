@@ -85,6 +85,9 @@ public void user_calls_with_http_request(String resource, String method) {
 		 
 	    System.out.println("Completed");
 	    System.out.println("Passed");
+
+		System.out.println("Completed1");
+	    System.out.println("Passed1");
 	}
 	
 

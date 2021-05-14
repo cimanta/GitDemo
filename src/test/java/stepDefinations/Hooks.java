@@ -12,6 +12,9 @@ public class Hooks {
 		//write a code that will give you place id
 		
 		StepDefination m =new StepDefination();
+		
+		StepDefination mnopq =new StepDefination();
+		
 		if(StepDefination.place_id==null)
 		{
 		
