@@ -83,7 +83,8 @@ public void user_calls_with_http_request(String resource, String method) {
 		  String actualName=getJsonPath(response,"name");
 		  assertEquals(actualName,expectedName);
 		 
-	    
+	    System.out.println("Completed");
+	    System.out.println("Passed");
 	}
 	
 
